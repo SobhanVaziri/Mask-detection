@@ -27,4 +27,4 @@
 </center>
 
 If you want to upload a video in `mp4` format and the program will detect whether it has a mask or not, use the following __link__:
-- __[Video face mask detection](VideoFaceMaskDetection.ipynb)__
+- __Video face mask detection__
