@@ -34,6 +34,6 @@ python main.py
 # Video face mask detection
 
 If you want to upload a video in `mp4` format and the program will detect whether it has a mask or not, use the following __link__:
-- __Video face mask detection__
+- Go to __Video face mask detection__ folder
 - And run the __video-face-mask-detection.ipynb__ file
 - Upload your file location in this line of code --> __`cap = cv2.VideoCapture('Your patch file.mp4')`__
