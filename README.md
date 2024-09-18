@@ -28,7 +28,7 @@ python main.py
 4. Press the `q` button to exit the program.
 
 <center>
-    <hr width=80% size=4 noshade />
+    <hr width=100% size=4 noshade />
 </center>
 
 # Video face mask detection
